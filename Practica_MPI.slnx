@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MPI_ScatterGather/MPI_ScatterGather.vcxproj" Id="ba1734c9-a7f3-4ec9-8b74-c13883f9e829" />
+  <Project Path="MPI_SendRecv/MPI_SendRecv.vcxproj" Id="3745aeb7-58a7-459b-901a-0f2ced685448" />
+</Solution>
